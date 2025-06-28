@@ -1,5 +1,4 @@
 # Amazon Product Sales Analysis
-![amazon](https://github.com/Satwik-uppada/Data-Analysis-Capstone-Project/assets/92086645/138ac416-fb8c-4c5f-b06e-788d14cd3136)
 
 ## Overview 📊
 
@@ -65,5 +64,3 @@ The insights derived from this analysis can be used to optimize sales strategies
 
 This project provides a comprehensive analysis of Amazon product sales, offering valuable insights into pricing strategies, sales performance, and category-specific trends. The findings can be leveraged to drive business growth and improve customer satisfaction in the e-commerce industry.
 
-# How to run in your machine
-- Once go through this page: https://github.com/Satwik-uppada/Data-Analysis-Capstone-Project/blob/main/How%20to%20run.md
